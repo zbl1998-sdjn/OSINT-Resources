@@ -13,7 +13,7 @@ This section collects reputable starting points for companies. Use every service
 | OpenCorporates | [opencorporates.com](https://opencorporates.com/) | Open company-data service aggregating official registers. | Web/API | Free/Paid | No |
 | GLEIF | [www.gleif.org](https://www.gleif.org/) | Global Legal Entity Identifier reference data. | Web/API | Free | No |
 | SEC EDGAR | [www.sec.gov](https://www.sec.gov/edgar) | US public-company filings and submissions. | Web/API | Free | No |
-| china-usci | [currawongweb.com](https://currawongweb.com/verify/china-usci-checker/) | Offline format and checksum checks for mainland China's 18-character USCI; passing does not prove registration, current status or ownership. | Web/CLI/JavaScript | Free | Yes (MIT implementation) |
+| Currawong USCI Checker | [currawongweb.com](https://currawongweb.com/verify/china-usci-checker/) | Offline format and checksum checks for mainland China's 18-character USCI; passing does not prove registration, current status or ownership. | Web | Free | Not stated for browser tool |
 
 ## Notes
 
